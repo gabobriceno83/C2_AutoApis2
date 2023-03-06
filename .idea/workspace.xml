@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b24f1ac-b819-4f52-858d-80835a62e9f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MFYZQZalxsiJozglXsVW2XP49Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CRUDProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C2_AutoApis2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="productotesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="productotesting" />
+      <option name="MAIN_CLASS_NAME" value="productotesting.CRUDProduct" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CRUDProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b24f1ac-b819-4f52-858d-80835a62e9f2" name="Default Changelist" comment="" />
+      <created>1677364854239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677364854239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-903" y="319" key="FileChooserDialogImpl" timestamp="1677973450057">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state x="-903" y="319" key="FileChooserDialogImpl/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1677973450057" />
+    <state width="1323" height="459" key="GridCell.Tab.0.bottom" timestamp="1678078943833">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state width="1323" height="459" key="GridCell.Tab.0.bottom/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1678078943833" />
+    <state width="1877" height="702" key="GridCell.Tab.0.bottom/-1366.200.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1678076840781" />
+    <state width="1323" height="459" key="GridCell.Tab.0.center" timestamp="1678078943832">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state width="1323" height="459" key="GridCell.Tab.0.center/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1678078943832" />
+    <state width="1877" height="702" key="GridCell.Tab.0.center/-1366.200.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1678076840781" />
+    <state width="1323" height="459" key="GridCell.Tab.0.left" timestamp="1678078943830">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state width="1323" height="459" key="GridCell.Tab.0.left/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1678078943830" />
+    <state width="1877" height="702" key="GridCell.Tab.0.left/-1366.200.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1678076840781" />
+    <state width="1323" height="459" key="GridCell.Tab.0.right" timestamp="1678078943833">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state width="1323" height="459" key="GridCell.Tab.0.right/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1678078943833" />
+    <state width="1877" height="702" key="GridCell.Tab.0.right/-1366.200.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1678076840781" />
+    <state x="-1153" y="219" key="Maven.ArtifactSearchDialog" timestamp="1677366883619">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state x="-1153" y="219" key="Maven.ArtifactSearchDialog/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1677366883619" />
+    <state x="-1182" y="209" key="SettingsEditor" timestamp="1678078317599">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state x="-1182" y="209" key="SettingsEditor/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1678078317599" />
+    <state x="-1092" y="225" key="new project wizard" timestamp="1677965694374">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state x="-1092" y="225" key="new project wizard/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1677965694374" />
+    <state x="-1027" y="262" width="672" height="677" key="run.anything.popup" timestamp="1677950438251">
+      <screen x="-1366" y="200" width="1366" height="728" />
+    </state>
+    <state x="-1027" y="262" width="672" height="677" key="run.anything.popup/-1366.200.1366.728/0.0.1920.1040@-1366.200.1366.728" timestamp="1677950438251" />
+  </component>
+</project>
